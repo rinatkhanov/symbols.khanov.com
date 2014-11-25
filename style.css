@@ -10,7 +10,7 @@ body {
 #pageIn {
 	margin-left: auto;
 	margin-right: auto;
-	width: 900px;
+	width: 950px;
 }
 
 #pageMiddle {
@@ -47,7 +47,9 @@ body {
 	text-align: left;
 	float: right;
 	margin-left: 0px;
-	width: 400px;
+	width: 520px;
+	padding-left: 0px;
+	margin-right: 20px;
 }
 
 #stars {
@@ -55,11 +57,14 @@ body {
 	color:#aaa;
 }
 
+video {
+	margin-left:70px;
+	margin-right:20px;
+}
+
 ul {
-	list-style-type:square;
-	margin-left: 0px;
-	padding-left: 0px;
-	padding-right: 70px;
+	list-style-type:lower-greek;
+	padding-left: 20px;
 }
 
 #footer {
