@@ -7,25 +7,6 @@ body {
 	text-align: center;
 }
 
-#pageIn {
-	margin-left: auto;
-	margin-right: auto;
-	width: 950px;
-}
-
-#pageMiddle {
-	display: table-cell; 
-	vertical-align: middle;
-}
-
-#pageOut {
-	background-image: -webkit-linear-gradient(#e8e8e8, #ffffff);
-	display: table;
-	position: absolute;
-	height: 99%;
-	width: 99%;
-}
-
 #logo {
 	font-size: 20pt;
 	color: #b9b4a8;
@@ -43,13 +24,19 @@ body {
 	color:#aaa;
 }
 
+#content {
+	width:940px;
+	margin: auto;
+}
+
 #features {
 	text-align: left;
 	float: right;
 	margin-left: 0px;
-	width: 520px;
+	width: 560px;
 	padding-left: 0px;
 	margin-right: 20px;
+	margin-top: 60px;
 }
 
 #stars {
@@ -58,13 +45,13 @@ body {
 }
 
 video {
-	margin-left:70px;
+	margin-left:20px;
 	margin-right:20px;
 }
 
 ul {
 	list-style-type:lower-greek;
-	padding-left: 20px;
+	padding-left: 23px;
 }
 
 #footer {
