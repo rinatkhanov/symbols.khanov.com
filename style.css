@@ -24,6 +24,16 @@ body {
 	color:#aaa;
 }
 
+#legal {
+	font-size: 8pt;
+	font-style: italic;
+	color:#ccc;
+	margin-right: auto;
+	margin-left: auto;
+	width: 410px;
+	display: none
+}
+
 #content {
 	width:940px;
 	margin: auto;
